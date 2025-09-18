@@ -1,5 +1,3 @@
-
-
 h = int(input("Pon las horas (0-23): "))
 m = int(input("Pon los minutos: "))
 s = int(input("Pon los segundos (puedes dejarlo en 0): "))
@@ -21,6 +19,3 @@ if h > 23:
 
 print(f"\rSon las {h:02d}:{m:02d}:{s:02d}", end="", flush=True)
 print()
-
-
-
