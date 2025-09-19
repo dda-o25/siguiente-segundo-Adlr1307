@@ -1,3 +1,8 @@
+"""
+Andrés Enrique Jaime de la Rosa, trabajo en equipo con Eduardo Caleb Castillo Llanas
+18/09/25
+El propósito de este código es calcular el segundo siguiente
+"""
 h = int(input("Pon las horas (0-23): "))
 m = int(input("Pon los minutos: "))
 s = int(input("Pon los segundos (puedes dejarlo en 0): "))
